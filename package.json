@@ -55,7 +55,7 @@
     "scp2": "^0.2.2",
     "serve-static": "^1.10.0",
     "style-loader": "^0.13.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "url-loader": "^0.5.6",
     "webpack": "^1.12.2"
   },
